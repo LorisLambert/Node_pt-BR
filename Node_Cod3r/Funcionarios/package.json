@@ -1,0 +1,16 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "App para estudar sobre o package.json",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Loris",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}

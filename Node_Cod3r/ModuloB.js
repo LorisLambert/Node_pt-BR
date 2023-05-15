@@ -1,1 +1,6 @@
-module.exports.seeYou = 'See you'
+module.exports = {
+    goodMorning: 'Good Morning!',
+    goodNight() {
+        return 'Good Night!'
+    }
+}
