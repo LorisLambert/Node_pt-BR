@@ -1,0 +1,1 @@
+print("\nAlô arrombados de merda\n")
